@@ -8,7 +8,7 @@ The service allows the user to convert their uploaded video to different resolut
 
 ## Share Your Ideas
 
-We value your feedback! Feel free to share your suggestions or feedback with us at .lucky.verma0002@gmail.com. Your insights help us improve!
+We value your feedback! Feel free to share your suggestions or feedback with us at lucky.verma0002@gmail.com. Your insights help us improve!
 
 # Setup Instructions
 
