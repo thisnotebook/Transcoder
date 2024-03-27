@@ -34,7 +34,7 @@ FFMPEG
 3. Run the following command to clone the repository:
 
 ```bash
-git clone https://github.com/sDaman830/transcoder.git
+git clone https://github.com/thisnotebook/transcoder.git
 ```
 
 # Frontend Setup
